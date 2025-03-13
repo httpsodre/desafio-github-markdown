@@ -10,3 +10,5 @@
 4. Links: [Texto](URL do link).
 5. Código: Usa crase `código` para trechos ou três crases para blocos.
 6. Imagens: ![Descrição](URL da imagem).
+-----
+@httpsodre @AlanCSFerreira
