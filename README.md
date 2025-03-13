@@ -3,7 +3,7 @@
 ![Gif Inicial](https://i.pinimg.com/originals/99/cd/09/99cd0925c516b5d0a740dffd03c3e0df.gif)
 
 <h2 align="center">✒️Um Breve Resumo sobre a Linguagem Markdown✒️</h2>
-<p align="justify"> O <strong>Markdown</strong> é uma linguagem de marcação leve e simples, usada para formatar texto de maneira rápida e intuitiva. Criada por [John Gruber](w) em 2004, ela facilita a criação de documentos estruturados sem a complexidade do HTML.
+<p align="justify"> O <strong>Markdown</strong> é uma linguagem de marcação leve e simples, usada para formatar texto de maneira rápida e intuitiva. Criada por <strong>John Gruber</strong> em 2004, ela facilita a criação de documentos estruturados sem a complexidade do HTML.
 Com Markdown, é possível adicionar <strong>títulos</strong>, <strong>negrito</strong>, <em>itálico</em>, listas, links, imagens e trechos de código usando uma sintaxe minimalista. Muito utilizada em <strong>documentação</strong>, <strong>blogs</strong>, <strong>readme files (GitHub)</strong> e <strong>anotações</strong>, a linguagem pode ser convertida para HTML facilmente.</p>
 
 <h2 align="center">✨Caracteristicas Principais do Markdown✨</h2>
